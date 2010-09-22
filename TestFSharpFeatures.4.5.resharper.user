@@ -1,0 +1,42 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="920A90C3-DB8A-4242-9C7E-DC1508D767C8/f:MarsRover.fs" caret="8" fromTop="1" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="920A90C3-DB8A-4242-9C7E-DC1508D767C8/f:MarsRover.fs" caret="405" fromTop="4" />
+      <File id="920A90C3-DB8A-4242-9C7E-DC1508D767C8/f:MarsRover.fs" caret="656" fromTop="18" />
+      <File id="920A90C3-DB8A-4242-9C7E-DC1508D767C8/f:MarsRover.fs" caret="25" fromTop="4" />
+      <File id="920A90C3-DB8A-4242-9C7E-DC1508D767C8/f:MarsRover.fs" caret="1680" fromTop="14" />
+      <File id="920A90C3-DB8A-4242-9C7E-DC1508D767C8/f:MarsRover.fs" caret="786" fromTop="9" />
+      <File id="920A90C3-DB8A-4242-9C7E-DC1508D767C8/f:MarsRover.fs" caret="786" fromTop="8" />
+      <File id="920A90C3-DB8A-4242-9C7E-DC1508D767C8/f:MarsRover.fs" caret="1383" fromTop="13" />
+      <File id="920A90C3-DB8A-4242-9C7E-DC1508D767C8/f:MarsRover.fs" caret="1383" fromTop="10" />
+      <File id="920A90C3-DB8A-4242-9C7E-DC1508D767C8/f:MarsRover.fs" caret="786" fromTop="6" />
+      <File id="920A90C3-DB8A-4242-9C7E-DC1508D767C8/f:MarsRover.fs" caret="242" fromTop="2" />
+      <File id="920A90C3-DB8A-4242-9C7E-DC1508D767C8/f:MarsRover.fs" caret="344" fromTop="5" />
+      <File id="920A90C3-DB8A-4242-9C7E-DC1508D767C8/f:MarsRover.fs" caret="253" fromTop="1" />
+      <File id="920A90C3-DB8A-4242-9C7E-DC1508D767C8/f:MarsRover.fs" caret="1179" fromTop="16" />
+      <File id="920A90C3-DB8A-4242-9C7E-DC1508D767C8/f:MarsRover.fs" caret="402" fromTop="10" />
+      <File id="920A90C3-DB8A-4242-9C7E-DC1508D767C8/f:MarsRover.fs" caret="182" fromTop="12" />
+      <File id="920A90C3-DB8A-4242-9C7E-DC1508D767C8/f:MarsRover.fs" caret="1179" fromTop="8" />
+      <File id="920A90C3-DB8A-4242-9C7E-DC1508D767C8/f:MarsRover.fs" caret="1179" fromTop="7" />
+      <File id="920A90C3-DB8A-4242-9C7E-DC1508D767C8/f:MarsRover.fs" caret="1529" fromTop="16" />
+      <File id="920A90C3-DB8A-4242-9C7E-DC1508D767C8/f:MarsRover.fs" caret="1502" fromTop="15" />
+      <File id="920A90C3-DB8A-4242-9C7E-DC1508D767C8/f:MarsRover.fs" caret="843" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>
